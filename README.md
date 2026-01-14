@@ -17,15 +17,7 @@ https://github.com/OneLoneCoder
 ## 📁 Repository Structure
 
 /projects
-    /cmdTetris
-    /CMD_FPS
-    /cmdFPS_upgrade
-    /cmdRetroArcadeRace
-    /cmdAsteroids
-    /olcEngine3D
 /shared_assets
-olcConsoleGameEngine.h
-README_engine.md
 README.md
 .gitignore
 ---
@@ -58,4 +50,5 @@ Special thanks to **javidx9** for his clear, code-focused tutorials and open-sou
 *Note: Parts of the most of  'README's descriptions in this repository were generated with the assistance of AI tools under my direction. All content reflects my own intentions, organization, and learning process.*
 
 Thank you sincerely for taking the time to read through this repository and for visiting my work. Your patience and interest are truly appreciated.
+
 
