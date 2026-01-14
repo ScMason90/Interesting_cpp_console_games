@@ -10,7 +10,9 @@ This repository contains personal learning reproductions of projects originally 
 The engine file `olcConsoleGameEngine.h` is used under its original **MIT License**, with full copyright retained by the author.
 
 Original work by javidx9:  
-https://github.com/OneLoneCoder
+- GitHub: https://github.com/OneLoneCoder
+- YouTube: https://www.youtube.com/@javidx9
+- (Some tutorial videos were also viewed through community reuploads on Bilibili.)
 
 ---
 
@@ -78,3 +80,4 @@ All content reflects my own intentions, organization, and learning process.
 
 Thank you sincerely for taking the time to read through this repository and for visiting my work.  
 Your patience and interest are truly appreciated.
+
