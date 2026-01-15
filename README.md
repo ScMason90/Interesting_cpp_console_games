@@ -41,7 +41,7 @@ README.md
 - **2025.10–11** — Added more projects  
 - **2025.11.28** — Transitioned focus to Unreal Engine 5  
 
-A detailed reproduction timeline is available in `/docs/reproduction_timeline.md`.
+A detailed reproduction timeline is available in `/projects/release_history.md`.
 
 ---
 
@@ -80,4 +80,5 @@ All content reflects my own intentions, organization, and learning process.
 
 Thank you sincerely for taking the time to read through this repository and for visiting my work.  
 Your patience and interest are truly appreciated.
+
 
