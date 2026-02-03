@@ -1,0 +1,10 @@
+Regarding the control instructions for the exe executable files in this project;
+
+In olcEngine3D part3.exe and part4.exe;
+1. Press W/S button for move forward/backward.
+2. Press A/D button for controlling camera to rotate to left/right.
+3. Press Up/Down button for move towards top/button in the world.
+4. Press Left/Right button for strafe Left/Right.(but it's inverse in part4.exe.just a bug)
+
+Note:
+There is no control context in olcEngine3D part1 and part2.

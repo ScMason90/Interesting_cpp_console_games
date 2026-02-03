@@ -1,0 +1,20 @@
+### Important Note About Running These Console Games
+
+The executable (.exe) files in these projects may not run correctly on some systems. Common issues include:
+
+- Incorrect resolution or display glitches due to Windows 11's new tabbed console, non-Windows operating systems, or incompatible console settings.
+- I never designed or tested these for public distribution, so there is no automatic compatibility handling or debug fallback for different console environments.
+
+**If the game doesn't display properly**, you can try the following:
+
+1. Open the source file of the project you're interested in.
+2. Locate the `int main()` function.
+3. Adjust the console resolution/window size settings (usually set via functions like `SetConsoleWindowInfo`, `SetConsoleScreenBufferSize`, etc.).
+4. Recompile the project in **Release** mode using Microsoft Visual Studio (or your preferred compiler).
+5. Run the newly built executable.
+
+I’m fully aware that this extra step might discourage most visitors — and honestly, it probably should.  
+I apologize for my laziness and technical shortcomings in not making these projects more user-friendly or robust.  
+Still, thank you sincerely for taking the time to visit this repository.
+
+Wishing you a smooth life and good health! 😄
