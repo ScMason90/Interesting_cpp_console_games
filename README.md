@@ -1,10 +1,10 @@
-# 🎮 Interesting C++ Console Game Collection
+# Interesting C++ Console Game Collection
 
 A curated set of C++ console game projects reproduced and re‑implemented during my early exploration of practical C++ programming.
 
 ---
 
-## 📌 Attribution
+## Attribution
 
 This repository contains personal learning reproductions of projects originally created by **javidx9 (OneLoneCoder)**.  
 The engine file `olcConsoleGameEngine.h` is used under its original **MIT License**, with full copyright retained by the author.
@@ -16,17 +16,7 @@ Original work by javidx9:
 
 ---
 
-## 📁 Repository Structure
-
-/projects
-/shared_assets
-/docs
-README.md
-.gitignore
-
----
-
-## 🛠 Build Instructions
+## Build Instructions
 
 - Compiler: **Microsoft Visual Studio Community 2022**
 - Language Standard: **C++17**
@@ -34,18 +24,7 @@ README.md
 
 ---
 
-## 🗓 Development Timeline
-
-- **2025.09.01** — Discovered javidx9 tutorials  
-- **2025.09.02–09.13** — Completed initial reproductions  
-- **2025.10–11** — Added more projects  
-- **2025.11.28** — Transitioned focus to Unreal Engine 5  
-
-A detailed reproduction timeline is available in `/projects/release_history.md`.
-
----
-
-## 📚 Background & Learning Notes
+## Background & Learning Notes
 
 ### **Algorithm Practice Phase (Early 2025 → Mid‑2025)**
 
@@ -60,23 +39,32 @@ Personally, I feel that solving problems purely for the sake of solving them con
 
 As one of my instructors said, *“Building projects is far more engaging than grinding algorithm problems.”*
 
+### Development Timeline
+
+- **2025.09.01** — Discovered javidx9 tutorials  
+- **2025.09.02–09.13** — Completed initial reproductions  
+- **2025.10–11** — Added more projects  
+- **2025.11.28** — Transitioned focus to Unreal Engine 5  
+
+A detailed reproduction timeline is available in `/projects/release_history.md`.
+
 ---
 
-## 🙏 Acknowledgment
+## Acknowledgment
 
 Special thanks to **javidx9** for his clear, code‑focused tutorials and generous open‑source contributions.  
 His work played a major role in shaping my early understanding of C++ and game programming.
 
 ---
 
-## 📝 Note on AI Assistance
+## Note on AI Assistance
 
-Parts of the README and documentation were generated with the assistance of AI tools under my direction.  
-All content reflects my own intentions, organization, and learning process.
+Parts of this README and pure documentation were generated with the assistance of AI tools under my direction.
+I also use AI to help me learn, debug etc.All .cpp/.h files were coded by me.AI is a good tool, but it cannot completely replace humans.All content reflects my own intentions, organization, and learning process.
 
 ---
 
-## 💬 Thank You
+## Thank You
 
 Thank you sincerely for taking the time to read through this repository and for visiting my work.  
 Your patience and interest are truly appreciated.
