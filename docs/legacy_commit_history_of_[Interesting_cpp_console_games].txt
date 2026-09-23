@@ -1,0 +1,88 @@
+# How to export the entire git commit history as a text file ? 
+# git bash under repo local folder and run command [git log --pretty=format:"%h - %an, %ad : %s" --date=iso --name-status > commit_history.txt]
+# deepseek helped.
+
+1b488e2 - ScMason90, 2026-06-08 16:05:58 +0800 : Added necessary resource files to the exe execution file.
+A	projects/cmdFPS_upgrade/includes/fps_fireball1.spr
+A	projects/cmdFPS_upgrade/includes/fps_lamp1.spr
+A	projects/cmdFPS_upgrade/includes/fps_wall1.spr
+R100	shared assets/olcConsoleGameEngine.h	projects/cmdFPS_upgrade/includes/header files/olcConsoleGameEngine.h
+A	projects/olcEngine3D/Source_Files/fps_wall1.spr
+A	projects/olcEngine3D/Source_Files/frog.spr
+A	projects/olcEngine3D/Source_Files/minijario.spr
+A	projects/olcEngine3D/Source_Files/olcConsoleGameEngine.h
+A	projects/olcEngine3D/Source_Files/sky1.spr
+A	projects/olcEngine3D/Source_Files/worms.spr
+A	projects/olcEngine3D/Source_Files/worms1.spr
+
+8d55509 - ScMason90, 2026-04-19 21:01:11 +0800 : Update README.md of repository.
+M	README.md
+A	projects/olcEngine3D/PART1_of_Engine3D.cpp
+A	projects/olcEngine3D/PART2_of_Engine3D.cpp
+A	projects/olcEngine3D/PART3_of_Engine3D.cpp
+A	projects/olcEngine3D/PART4_of_Engine3D.cpp
+
+1bd2f34 - ScMason90, 2026-03-20 20:27:21 +0800 : Refactor README.md for clarity and organization; update sections and improve formatting
+M	README.md
+
+2c6db48 - ScMason90, 2026-02-03 16:26:29 +0800 : Merge branch 'main' of https://github.com/ScMason90/Interesting_cpp_console_games
+150e380 - ScMason90, 2026-02-03 15:48:48 +0800 : Add important detailed description&notification
+A	projects/CMD_FPS/README
+A	projects/README
+A	projects/cmdAsteroids/README
+A	projects/cmdFPS_upgrade/README
+A	projects/cmdRatroArcadeRace/README
+A	projects/cmdTetris/README
+A	projects/olcEngine3D/README
+
+7cca848 - ScMason90, 2026-02-03 15:48:48 +0800 : Add important detailed description&notification
+A	projects/README
+
+dd972f2 - ScMason90, 2026-01-15 13:42:55 +0800 : Reformat README.md with additional content
+M	README.md
+
+55f2c52 - ScMason90, 2026-01-14 13:00:05 +0800 : Update README with additional attribution links
+M	README.md
+
+560baa9 - ScMason90, 2026-01-14 12:58:49 +0800 : Add Legacy CleanProject.bat
+A	docs/CleanProject.bat
+
+483c5e4 - ScMason90, 2026-01-14 12:57:08 +0800 : Update .gitignore for Visual Studio project files
+A	.gitignore
+
+a386750 - ScMason90, 2026-01-14 12:32:34 +0800 : Revise README for clarity and additional content
+M	README.md
+
+03b1bb6 - ScMason90, 2026-01-14 12:08:03 +0800 : Refactor README for clarity and conciseness
+M	README.md
+
+2129a9a - ScMason90, 2026-01-14 12:06:07 +0800 : Add initial files.
+A	README.md
+A	docs/Legacy .gitignore/legacy_gitignore_notes.md
+A	projects/CMD_FPS/CommandLineFPS.exe
+A	projects/CMD_FPS/FPS.cpp
+A	projects/cmdAsteroids/cmd_Asteroid.exe
+A	projects/cmdAsteroids/olcAsteroid.cpp
+A	projects/cmdFPS_upgrade/FPS_fst.cpp
+A	projects/cmdFPS_upgrade/cmdFPS_upgrade.exe
+A	projects/cmdRatroArcadeRace/RetroArcadeRacer.cpp
+A	projects/cmdRatroArcadeRace/RetroArcadeRacer.exe
+A	projects/cmdTetris/Tetris.cpp
+A	projects/cmdTetris/Tetris_handcrafted.cpp
+A	projects/cmdTetris/prac 10.16 handcrafted.exe
+A	projects/olcEngine3D/PART1_of_Engine3D.exe
+A	projects/olcEngine3D/PART2_of_Engine3D.exe
+A	projects/olcEngine3D/PART3_of_Engine3D.exe
+A	projects/olcEngine3D/PART4_of_Engine3D.exe
+A	projects/release_history.md
+A	shared assets/20263_Heptagrammic_prism_V2.obj
+A	shared assets/fps_fireball1.spr
+A	shared assets/fps_lamp1.spr
+A	shared assets/fps_wall1.spr
+A	shared assets/header files/olcConsoleGameEngine.h
+A	shared assets/mountains.obj
+A	shared assets/olcConsoleGameEngine.h
+A	shared assets/sky1.spr
+
+990fcda - ScMason90, 2026-01-14 12:04:29 +0800 : Add MIT License to the project
+A	LICENSE
