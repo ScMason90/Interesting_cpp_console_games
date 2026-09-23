@@ -79,8 +79,9 @@ His work played a major role in shaping my early understanding of C++ and game p
 
 ## Note on AI Assistance
 
-Parts of this README and pure documentation were generated with the assistance of AI tools under my direction.
-I also use AI to help me learn, debug etc.All .cpp/.h files were coded by me.AI is a good tool, but it cannot completely replace humans.All content reflects my own intentions, organization, and learning process.
+I use AI to help me learn, debug etc. AI is a good tool, but it cannot completely replace humans.
+
+All content reflects my own intentions, organization, and learning process. All .cpp/.h source files were written by me. AI tools were used for documentation, debugging, and learning assistance only. All content reflects my own intentions and learning process. 
 
 ---
 
